@@ -68,7 +68,6 @@ cd kali-anonsurf
 chmod +x installer.sh
 ./installer.sh > /dev/null
 fi
-fi
 sleep 1
 if [ -e $nscd ]
 then
